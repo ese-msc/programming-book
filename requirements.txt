@@ -1,0 +1,4 @@
+jupyter-book == 1.0.0
+datascience == 0.17.5
+jupytext == 1.16.1
+sympy == 1.12.1
